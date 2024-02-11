@@ -39,7 +39,7 @@ nav ul a:hover{
 }
 
 #banner{
-    background:linear-gradient(rgba(0, 0, 0, 0.5), #07fffbb5),url(/images/banner3.jpg);
+    background:linear-gradient(rgba(0, 0, 0, 0.249), #07fffb57),url(/images/banner3.jpg );
     background-size: cover;
     background-position: center;
     min-height: 80vh;
@@ -535,9 +535,9 @@ textarea {
     
     }
     .item{
+        margin: 50px auto;
         width: 200px;
         height: 200px;
-    
     }
     .item4{
         width: 300px;
